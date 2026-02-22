@@ -23,7 +23,7 @@ def subtract_numbers(a, b):
     Returns:
         int or float: The difference of a and b
     """
-    return a - b
+    return a / b
 
 
 def multiply_numbers(a, b):
